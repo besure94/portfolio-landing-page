@@ -7,6 +7,12 @@
 	background-color: #adb5bd;
 }
 
+.forest {
+	float: left;
+	width: 200px;
+	height: auto;
+}
+
 .guitar {
 	float: left;
 	padding: 4px;
