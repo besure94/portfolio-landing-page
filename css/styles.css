@@ -1,5 +1,5 @@
 .brian {
-	border: solid 2px #577590;
+	border: solid 2px #277da1;
 	padding: 6px;
 }
 
@@ -11,6 +11,10 @@
 	float: left;
 	padding: 4px;
 	margin: 4px;
+}
+
+h2 {
+	color: #277da1;
 }
 
 img {
