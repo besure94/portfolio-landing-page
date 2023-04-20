@@ -1,8 +1,19 @@
+.brian {
+	border: solid 2px #577590;
+	padding: 6px;
+}
+
 img {
-	width: 300px;
+	width: 400px;
 	height: auto;
 }
 
 .jumbotron {
 	text-align: center;
+}
+
+.name {
+	color: #277da1;
+	font-size: larger;
+	font-weight: 800;
 }
