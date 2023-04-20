@@ -3,6 +3,16 @@
 	padding: 6px;
 }
 
+.container {
+	background-color: #adb5bd;
+}
+
+.guitar {
+	float: left;
+	padding: 4px;
+	margin: 4px;
+}
+
 img {
 	width: 400px;
 	height: auto;
@@ -10,6 +20,7 @@ img {
 
 .jumbotron {
 	text-align: center;
+	background-color: #212529;
 }
 
 .name {
