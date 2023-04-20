@@ -2,3 +2,7 @@ img {
 	width: 300px;
 	height: auto;
 }
+
+.jumbotron {
+	text-align: center;
+}
