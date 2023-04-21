@@ -7,6 +7,16 @@
 	background-color: #adb5bd;
 }
 
+.delay {
+  transition-property: font-size;
+  transition-duration: 2s;
+  transition-delay: 0.5;
+}
+
+.delay:hover {
+	font-size: 36px;
+}
+
 .forest {
 	float: left;
 	width: 350px;
