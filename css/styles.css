@@ -1,9 +1,9 @@
 .brian {
-	border: solid 4px #277da1;
+	/* border: solid 4px #277da1;
 	padding: 3px;
-	outline: solid 5px #adb5bd;
-	display: flex;
-	justify-content: space-evenly;
+	outline: solid 5px #adb5bd; */
+	/* display: flex;
+	justify-content: space-evenly; */
 }
 
 .container {
@@ -40,8 +40,16 @@ h2 {
 }
 
 img {
-	width: 400px;
+	width: 300px;
 	height: auto;
+}
+
+.images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: flex-start;
+	justify-content: space-evenly;
 }
 
 .interests {
@@ -79,4 +87,22 @@ img {
 
 #name:hover {
 	font-size: 80px;
+}
+
+.philly {
+	/* border: solid 4px #277da1;
+	padding: 3px;
+	outline: solid 5px #adb5bd; */
+	/* display: flex;
+	justify-content: space-evenly;
+	float: left; */
+}
+
+.shades {
+	/* border: solid 4px #277da1;
+	padding: 3px;
+	outline: solid 5px #adb5bd; */
+	/* display: flex;
+	justify-content: space-evenly;
+	float: right; */
 }
