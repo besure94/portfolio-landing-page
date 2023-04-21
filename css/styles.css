@@ -1,6 +1,7 @@
 .brian {
-	border: solid 2px #277da1;
+	border: solid 4px #277da1;
 	padding: 6px;
+	outline: solid 4px #adb5bd;
 }
 
 .container {
