@@ -11,12 +11,13 @@
 	float: left;
 	width: 200px;
 	height: auto;
+	margin-right: 40px;
 }
 
 .guitar {
 	float: left;
 	padding: 4px;
-	margin: 4px;
+	margin-right: 25px;
 }
 
 h2 {
