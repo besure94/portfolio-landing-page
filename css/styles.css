@@ -1,9 +1,9 @@
 .brian {
-	/* border: solid 4px #277da1;
+	border: solid 4px #277da1;
 	padding: 3px;
-	outline: solid 5px #adb5bd; */
-	/* display: flex;
-	justify-content: space-evenly; */
+	outline: solid 5px #adb5bd;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 .container {
@@ -40,8 +40,8 @@ h2 {
 }
 
 img {
-	width: 300px;
-	height: auto;
+	width: 400px;
+	height: 400px;
 }
 
 .images {
@@ -50,6 +50,7 @@ img {
 	flex-wrap: nowrap;
 	align-items: flex-start;
 	justify-content: space-evenly;
+	padding-bottom: 6px;
 }
 
 .interests {
@@ -90,19 +91,13 @@ img {
 }
 
 .philly {
-	/* border: solid 4px #277da1;
+	border: solid 4px #277da1;
 	padding: 3px;
-	outline: solid 5px #adb5bd; */
-	/* display: flex;
-	justify-content: space-evenly;
-	float: left; */
+	outline: solid 5px #adb5bd;
 }
 
 .shades {
-	/* border: solid 4px #277da1;
+	border: solid 4px #277da1;
 	padding: 3px;
-	outline: solid 5px #adb5bd; */
-	/* display: flex;
-	justify-content: space-evenly;
-	float: right; */
+	outline: solid 5px #adb5bd;
 }
