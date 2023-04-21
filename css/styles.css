@@ -23,6 +23,7 @@
 
 h2 {
 	color: #277da1;
+	font-weight: 700;
 }
 
 img {
@@ -37,6 +38,8 @@ img {
 .jumbotron {
 	text-align: center;
 	background-color: #212529;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .name {
