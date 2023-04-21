@@ -9,7 +9,7 @@
 
 .delay {
   transition-property: font-size;
-  transition-duration: 2s;
+  transition-duration: 1s;
   transition-delay: 0.5;
 }
 
@@ -52,8 +52,28 @@ img {
 	padding-bottom: 10px;
 }
 
+#link {
+	transition-property: font-size;
+  transition-duration: 1s;
+  transition-delay: 0.5;
+}
+
+#link:hover {
+	font-size: 20px;
+}
+
 .name {
 	color: #277da1;
 	font-size: larger;
 	font-weight: 800;
+}
+
+#name {
+	transition-property: font-size;
+  transition-duration: 1s;
+  transition-delay: 0.5;
+}
+
+#name:hover {
+	font-size: 80px;
 }
