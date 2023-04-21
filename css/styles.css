@@ -1,7 +1,9 @@
 .brian {
 	border: solid 4px #277da1;
-	padding: 6px;
-	outline: solid 4px #adb5bd;
+	padding: 3px;
+	outline: solid 5px #adb5bd;
+	display: flex;
+	justify-content: space-evenly;
 }
 
 .container {
