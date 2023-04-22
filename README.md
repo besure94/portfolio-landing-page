@@ -6,7 +6,7 @@
 
 ## Description
 
-This website allows users to view a portfolio for Brian Scherner. Users can view three images below Brian's name, as well as a list of five projects he is currently working on. Each project contains a link to a GitHub repository for each project, and there is a description for each project as well. Each link will enlarge when you hover over it, and each heading will also enlarge when you hover over it. There is an "About Me" section where users can learn more about Brian and his story. This section includes an image of him in a forest. There is also a section called "Interests, Hobbies, and Skills", where users can learn even more about Brian. This section includes an image of him playing guitar. This website can be viewed here: https://bscherner.github.io/portfolio-landing-page/
+This website allows users to view a portfolio for Brian Scherner. Users can view three images below Brian's name, as well as a list of five projects he is currently working on. Each project contains a link to a GitHub page for each project, and there is a description for each project as well. Each link will enlarge when you hover over it, and each heading will also enlarge when you hover over it. There is an "About Me" section where users can learn more about Brian and his story. This section includes an image of him in a forest. There is also a section called "Interests, Hobbies, and Skills", where users can learn even more about Brian. This section includes an image of him playing guitar. This website can be viewed here: https://bscherner.github.io/portfolio-landing-page/
 
 ## Technologies Used
 
